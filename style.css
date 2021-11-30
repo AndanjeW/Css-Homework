@@ -1,0 +1,38 @@
+/* tag based selectors */
+body {
+    color:black;
+    background-color:powderblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+
+} 
+h1 { color : brown;
+    font-size: 2.0em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   
+}
+
+/*id based selector */
+#Choosing-Type-of-Magazine {
+    color: cornflowerblue;
+} 
+
+h2 {
+    color: teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2;
+} 
+/*class based selector */
+.underline {
+    text-decoration: underline;
+} 
+.bold {
+    font-weight: bold;
+    font-size: 1.2em;
+
+} 
+#intro-ps {
+    font-style: italic;
+    font-size: 0.8em;
+
+} 
